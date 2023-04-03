@@ -4,6 +4,6 @@
     <title>Latihan</title>
   </head>
   <body>
-    <?=hello 2?>
+    <?=hello 3?>
   </body>
 </html>
